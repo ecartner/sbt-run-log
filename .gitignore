@@ -1,0 +1,9 @@
+# Git
+.gitattributes
+
+# SBT
+target/
+
+# Vim
+tags
+*.swp
